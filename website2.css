@@ -1,0 +1,257 @@
+body{
+  padding: 0;
+  margin: 0;
+  font-family: Arial,sans-serf;
+}
+section{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  
+}
+.navbar{
+  height: 8vh;
+  width: 100%;
+  background: green;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 0 40px;
+  width: 100%;
+  top: 0;
+  z-index: 1000;
+  position: sticky;
+}
+.navbar ul{
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  
+}
+.navbaritem li{
+  margin-left: 20px;
+}
+.navbaritem a{
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+#home{
+  background-color: #f0f0f0;
+  padding: 8vh;
+}
+#home{
+  background-color: f0f0f0;
+  padding-top: 8vh;
+}
+.homecontent{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin:0 auto;
+  padding: 20px;
+  text-align: left;
+}
+#home img{
+  width: 400px;
+  height: auto;
+  margin-right: 40px;
+  border-radius: 10px
+}
+#home h2{
+  font-size:1.2rem;
+  color: #333;
+  max-width: 600px
+}
+#Aboutme{
+  background-color: #ffffff;
+  text-align: center;
+  padding-top: 8vh;
+  display: flex;
+  flex-direction: column;
+}
+#Aboutme h2{
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+#Aboutme p{
+  font-size: 1.1rem;
+  color: #555;
+  max-width: 700px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+#contactme{
+  background-color: #f7f7f7;
+  padding-top: 8vh;
+  display: flex;
+  flex-direction: column;
+}
+#Contactme h2{
+  font-size: 2rem;
+  margin-bottom: 20px;
+  text-align: center;
+}
+#Contactme form{
+  width: 500px;
+  margin: 0 auto;
+  text-align: left;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  background-color: lightblue;
+  padding: 30px;
+}
+ #Contactme label{
+   width: 100%;
+   margin-bottom: 10px;
+   font-weight: bold;
+ }
+  #Contactme input
+  #Contactme textarea{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    
+  }
+ #Contactme button{
+   padding: 10px 20px;
+   background-color: green;
+   color: white;
+   border: none;
+   border-radius: 5px;
+   cursor: pointer;
+ } 
+ #Contactme button:hover{
+   background-color: darkgreen;
+ } 
+
+#reset{
+  background-color: lightblue;
+  color: red;
+}
+#mekezo{
+  margin-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
